@@ -2,4 +2,4 @@
 IoT Control OFFICE 프로젝트
 
 ## 작동 시연 영상
-![img](presentation_data/)
+![img](presentation_data/GIFMaker_me.gif)
